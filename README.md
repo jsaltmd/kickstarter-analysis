@@ -11,7 +11,7 @@ CHART 2:
 
 ![](https://github.com/jsaltmd/kickstarter-analysis/blob/master/Images/screenshot3.png)
 
-Looking at outcomes based on launch date focusing only on plays, the campaign has >100% success rate when launching it in the month of May and June and it tapers down throught the year. November and December are not good for starting a campaign because these are the busiest months of the year due to holidays. 
+Looking at outcomes based on launch date focusing only on plays, the campaign has >100% success rate when launching it in the month of May and June and it tapers down throughout the year. November and December are not good for starting a campaign because these are the busiest months of the year due to holidays. 
 
 CHART 3:
 
