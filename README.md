@@ -17,6 +17,6 @@ CHART 3:
 
 ![](https://github.com/jsaltmd/kickstarter-analysis/blob/master/Images/screenshot1.png)
 
-Based on statistical analysis on plays conducted in the US (see attached excel workbook, tab titled "Descriptive Statistics"), the median goal for successful plays are around $5,000. Most projects failed because the goals were very high (median goal of $10,000) or people are not willing to pledge. Therefore, a maximum campaign goal of $5,000 and starting May or June would be very ideal for Louise to start her crowfunding project.
+Based on statistical analysis of plays conducted in the US (see attached excel workbook, tab titled "Descriptive Statistics"), the median goal for successful plays are around $5,000. Most projects failed because the goals were very high (median goal of $10,000) or people are not willing to pledge. Therefore, a maximum campaign goal of $5,000, starting May or June would be very ideal for Louise to start her crowfunding project.
 
 A data analysis was also performed in the Great Britain's theater market. Based on the assessment, the goals are mostly less than 4,000 pounds which is within Louise's budget. Therefore, a campaign goal of less than 2,000 pounds to produces the play would be ideal. See attached excel workbook, tab titled 'the Edinburgh research" for more details.
