@@ -20,3 +20,28 @@ CHART 3:
 Based on statistical analysis of plays conducted in the US (see attached excel workbook, tab titled "Descriptive Statistics"), the median goal for successful plays are around $5,000. Most projects failed because the goals were very high (median goal of $10,000) or people are not willing to pledge. Therefore, a maximum campaign goal of $5,000, starting May or June would be very ideal for Louise to start her crowfunding project.
 
 A data analysis was also performed in the Great Britain's theater market. Based on the assessment, the goals are mostly less than 4,000 pounds which is within Louise's budget. Therefore, a campaign goal of less than 2,000 pounds to produces the play would be ideal. See attached excel workbook, tab titled 'the Edinburgh research" for more details.
+
+
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
