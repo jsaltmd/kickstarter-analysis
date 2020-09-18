@@ -22,11 +22,11 @@ Based on statistical analysis of plays conducted in the US (see attached excel w
 A data analysis was also performed in the Great Britain's theater market. Based on the assessment, the goals are mostly less than 4,000 pounds which is within Louise's budget. Therefore, a campaign goal of less than 2,000 pounds to produces the play would be ideal. See attached excel workbook, tab titled 'the Edinburgh research" for more details.
 
 
-# Kickstarting with Excel
+# Module 1 Challenge
 
 ## Overview of Project
 
-### Purpose
+### The purpose of this project is to perform data analysis in order to assess how other campaigns' fund raising goals with Louise's play called "Fever" came close to its fundraising goal in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
